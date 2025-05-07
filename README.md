@@ -53,3 +53,4 @@ For the latest IPython Notebooks used to visualize the data before and after tra
 - **MIF-NET**: [A Holistically Point-guided Text Framework for Weakly-Supervised Camouflaged Object Detection](https://arxiv.org/pdf/2501.06038)
 - **R2CNet**: [Towards Accurate Camouflaged Object Detection with Mixture Convolution and Interactive Fusion](https://arxiv.org/pdf/2101.05687)
 - **AGLNet**: [Adaptive Guidance Learning for Camouflaged Object Detection](https://arxiv.org/pdf/2405.02824)
+- **Kaggle Fine Tuning Notebook**: [TA Aamil Gave it to us for finetuning but it was used on MD older models so it wasnt really relevant to us](https://www.kaggle.com/code/agentmorris/fine-tuning-megadetector)

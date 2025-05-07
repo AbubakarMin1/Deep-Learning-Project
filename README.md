@@ -41,6 +41,9 @@ These models will be tested on images taken from real-world scenarios to assess 
 - **LICENSE**: The licensing information for the project.  
 - **README.md**: This file.
 
+## Google Drive Link
+For the latest IPython Notebooks used to visualize the data before training the model, after training the model, and during training, please refer to the [Google Drive folder](https://drive.google.com/drive/folders/1ecU6qbXc4-otjxU5pCZs2M4cwwH4Ac2n?usp=sharing).
+
 ## References
 - [Pytorch Wildlife and Microsoft CameraTraps Repository](https://github.com/microsoft/CameraTraps)
 - **MIF-NET**: [A Holistically Point-guided Text Framework for Weakly-Supervised Camouflaged Object Detection](https://arxiv.org/pdf/2501.06038)
